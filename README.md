@@ -100,6 +100,12 @@ CREATE TABLE salaries (
 );
 
 
+  EBD Employee Diagram (FK's & PK's)
+
+  
+  ![image](https://github.com/nasr9000/SQL-Challenge/assets/128746625/74fc4846-d1a7-4931-a5d9-83c8cc366e5b)
+
+
 Employee.SQL
 
 -- employee number, last name, first name, sex, and salary
@@ -162,9 +168,3 @@ SELECT last_name, count(emp_no) as num_employees_with_same_last_name
 FROM employees
 GROUP BY last_name
 ORDER BY num_employees_with_same_last_name DESC;
-
-  EBD Employee Diagram (FK's & PK's)
-
-  
-  ![image](https://github.com/nasr9000/SQL-Challenge/assets/128746625/74fc4846-d1a7-4931-a5d9-83c8cc366e5b)
-
