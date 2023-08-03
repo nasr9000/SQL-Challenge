@@ -99,6 +99,9 @@ CREATE TABLE salaries (
 	PRIMARY KEY (emp_no)
 );
 
+
   EBD Employee Diagram (FK's & PK's)
+
+  
   ![image](https://github.com/nasr9000/SQL-Challenge/assets/128746625/74fc4846-d1a7-4931-a5d9-83c8cc366e5b)
 
