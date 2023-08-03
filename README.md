@@ -1,5 +1,8 @@
 # SQL-Challenge
 
+![image](https://github.com/nasr9000/SQL-Challenge/assets/128746625/1808fa4c-6ca8-4add-a31e-033bae180962)
+![image](https://github.com/nasr9000/SQL-Challenge/assets/128746625/eb8473f6-e4e8-4a17-9f51-d782705a20c4)
+
 Instructions
 
 This Challenge is divided into three parts: data modeling, data engineering, and data analysis.
