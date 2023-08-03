@@ -40,5 +40,8 @@ This Challenge is divided into three parts: data modeling, data engineering, and
 
 -  List each employee in the Sales and Development departments, including their employee number, last name, first name, and department name.
 
+-  List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
 
-8. List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
+  EBD Employee Diagram (FK's & PK's)
+  ![image](https://github.com/nasr9000/SQL-Challenge/assets/128746625/74fc4846-d1a7-4931-a5d9-83c8cc366e5b)
+
